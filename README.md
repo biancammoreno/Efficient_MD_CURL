@@ -8,3 +8,5 @@ To run an experiment create a virtual environment, install the requirements in `
 For an explanation of the parameters execute
 
 `python main.py -h` 
+
+A new directory `results` is created to save images and graphs.
