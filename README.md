@@ -1,4 +1,4 @@
-# Efficient_MD_CURL
+# Efficient Model-Based Concave Utility Reinforcement Learning through Greedy Mirror Descent
 Code for running experiments on the article: Efficient Model-Based Concave Utility Reinforcement Learning through Greedy Mirror Descent.
 
 To run an experiment create a virtual environment, install the requirements in `requirements.txt` and execute
