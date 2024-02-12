@@ -1,5 +1,5 @@
 # Efficient Model-Based Concave Utility Reinforcement Learning through Greedy Mirror Descent
-Code for running experiments on the article: Efficient Model-Based Concave Utility Reinforcement Learning through Greedy Mirror Descent.
+Code for running experiments on the article: Efficient Model-Based Concave Utility Reinforcement Learning through Greedy Mirror Descent. Accepted in AISTATS 2024.
 
 To run an experiment save all files to a folder, create a virtual environment, install the requirements in `requirements.txt` and execute
 
